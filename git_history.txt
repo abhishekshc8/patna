@@ -1,0 +1,100 @@
+    1  apt updte
+    2  apt update
+    3  clear
+    4  apt install git
+    5  clear
+    6  mkdir abhi
+    7  cd abhi
+    8  vim patna.txt
+    9  git add patna.txt
+   10  git init
+   11  git status
+   12  git branch
+   13  clear
+   14  gti add patna.txt
+   15  git add patna.txt
+   16  git status
+   17  git branch
+   18  git commit -m "patna1st"
+   19  git status
+   20  git branch
+   21  clear
+   22  git push -u origin master
+   23  git remote -v
+   24  clear
+   25  history
+   26  git push -u origin master
+   27  git branch -M master
+   28  git push -u origin master
+   29  git branch
+   30  clear
+   31  git push -u origin master
+   32  git remote add origin https://github.com/abhishekshc8/patna.git
+   33  git push -u origin master
+   34  git checkout -b feature
+   35  git branch
+   36  ls -la
+   37  git status
+   38  git branch
+   39  clear
+   40  git branch
+   41  ls -la
+   42  cat patna.txt
+   43  git checkout erverver
+   44  git checkout master
+   45  ls -la
+   46  cat patna.txt
+   47  git status
+   48  git checkout feature 
+   49  git status
+   50  history
+   51  clear
+   52  git branch
+   53  vim patna.txt
+   54  cat patna.txt
+   55  git status
+   56  git checkout master
+   57  cat patna.txt
+   58  vim patna.txt
+   59  git status
+   60  git branch
+   61  git checkout feature 
+   62  git checkout master 
+   63  git checkout feature 
+   64  git branch
+   65  git status
+   66  git add patna.txt
+   67  git status
+   68  git commit -m "patna2nd"
+   69  git status
+   70  git branch
+   71  cat patna.txt
+   72  git checkout master
+   73  cat patna.txt
+   74  clear
+   75  git master
+   76  git branch
+   77  git diff 
+   78  git diff feature 
+   79  git checkout feature 
+   80  git status
+   81  history
+   82  git push -u origin feature
+   83  git branch
+   84  cat patna.txt
+   85  git checkout master
+   86  cat patna.txt
+   87  git log
+   88  git history
+   89  history
+   90  git push -u origin master
+   91  git pull -u origin master
+   92  git pull origin master
+   93  cat patna.txt
+   94  git branch -d feature 
+   95  git branch
+   96  git checkout -b quick-test
+   97  la -la
+   98  git branch
+   99  git checkout master
+  100  history > git_history.txt
